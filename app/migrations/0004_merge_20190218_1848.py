@@ -11,4 +11,12 @@ class Migration(migrations.Migration):
     ]
 
     operations = [
+        migrations.AlterModelOptions(
+            name='user',
+            options={},
+        ),
+        migrations.AlterUniqueTogether(
+            name='user',
+            unique_together={('email',)},
+        ),
     ]
