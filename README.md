@@ -12,9 +12,9 @@ The service has two types of users: players and developers. Developers can add t
 
 ### Team
 
-	57237L Henri Ahti       
-	721936 Siddhant Gupta
-	528142 Santeri Volkov   
+	Santeri Volkov
+	Siddhant Gupta
+	Henri Ahti
 
 ### Specifications
 
